@@ -1,4 +1,4 @@
-<div class="unplugged-home-grid">
+<img>class="unplugged-home-grid">
   <div class="product">
     <img src="{{ 'disconnect-tee.jpg' | asset_url }}" alt="Disconnect Tee">
     <h2>Disconnect Tee</h2>
