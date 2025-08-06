@@ -20,3 +20,4 @@
 </div>https://github.com/unpluggedking/Unplugged-Supply-site.git
 <img src="unplugged_logo.svg" alt="Unplugged Supply Logo" width="200" />
 <img src="images/my_disconnect_tee_mockup.png" alt="Disconnect Tee" />
+ChatGPT Image Aug 5, 2025, 07_12_45 PM.png
